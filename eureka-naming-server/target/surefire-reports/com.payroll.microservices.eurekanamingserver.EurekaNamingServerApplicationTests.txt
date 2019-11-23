@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.payroll.microservices.eurekanamingserver.EurekaNamingServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.211 sec - in com.payroll.microservices.eurekanamingserver.EurekaNamingServerApplicationTests
