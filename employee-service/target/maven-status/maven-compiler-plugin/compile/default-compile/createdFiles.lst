@@ -1,0 +1,5 @@
+com\payroll\microservices\employeeservice\EmployeeConfiguration.class
+com\payroll\microservices\employeeservice\EmployeeController.class
+com\payroll\microservices\employeeservice\EmployeeServiceApplication.class
+com\payroll\microservices\employeeservice\EmployeeRepository.class
+com\payroll\microservices\employeeservice\Employee.class

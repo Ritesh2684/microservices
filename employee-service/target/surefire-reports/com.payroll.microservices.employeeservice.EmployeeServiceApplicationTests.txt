@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.payroll.microservices.employeeservice.EmployeeServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 91.317 sec - in com.payroll.microservices.employeeservice.EmployeeServiceApplicationTests
